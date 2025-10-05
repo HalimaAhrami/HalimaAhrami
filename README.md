@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Mediaplus Badge](https://badge.mediaplus.ma/binary/h-el-ahr)](https://badge.mediaplus.ma/)
 
 <!--
 **HalimaAhrami/HalimaAhrami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
