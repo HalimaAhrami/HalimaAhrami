@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <a href="https://badge.mediaplus.ma/">
     <img src="https://badge.mediaplus.ma/binary/h-el-ahr" alt="Mediaplus Badge" />
   </a>
